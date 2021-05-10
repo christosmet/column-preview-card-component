@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-using-flex-kFxS862xe)
-- Live Site URL: [live site URL](https://christosmet.github.io/stats-preview-card-component)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-css-erJ2Wyc5lQ)
+- Live Site URL: [live site URL](https://christosmet.github.io/column-preview-card-component/)
 
 ## My process
 
